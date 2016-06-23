@@ -1,4 +1,4 @@
 # CS1301
 Labs and Assignments
 
-Book: Introduction to Java Programming 10th Edition
+Introduction to Java Programming Comprehensive Version 10th Edition
